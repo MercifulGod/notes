@@ -5,4 +5,4 @@
 -   [工具集合](/tool/)
 -   [进阶知识](/advance/)
 -   [关于我们](/about/)
--   [GitHub](https://github.com/xflihaibo/docs)
+-   [GitHub](https://github.com/MercifulGod/notes)
